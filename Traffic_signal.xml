@@ -1,0 +1,32 @@
+<type name="Red_light">
+	<shape name>="Circle">
+	</shape>
+</type>
+<type name="Yellow_light">
+	<shape name>="Circle">
+	</shape>
+</type>
+<type name="Green_light">
+	<shape name>="Circle">
+	</shape>
+</type>
+<type name="Traffic_signal">
+	<shape name>="Rectangle">
+	</shape>
+</type>
+<type name="Left_sign">
+	<shape name>="Circle">
+	</shape>
+</type>
+<type name="Right_sign">
+	<shape name>="Circle">
+	</shape>
+</type>
+<type name="Diagonal_Left_sign">
+	<shape name>="Circle">
+	</shape>
+</type>
+<type name="Diagonal_Right_sign">
+	<shape name>="Circle">
+	</shape>
+</type>
