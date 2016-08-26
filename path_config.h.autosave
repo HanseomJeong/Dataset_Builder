@@ -1,0 +1,27 @@
+#ifndef PATH_CONFIG_H
+#define PATH_CONFIG_H
+
+#include <QString>
+
+class path_config
+{
+
+public:
+
+    ~path_config();
+
+
+
+//private Function
+private:
+
+
+//private variable
+private:
+
+
+
+
+};
+
+#endif // PATH_CONFIG_H
